@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone, I'm Eugene 👋</h1>
+<h1 align="center">Hi everyone, I'm Yevhen 👋</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <h2>🚀 Technologies / Технологии</h2>
